@@ -1,5 +1,13 @@
 ![sly](https://i.imgur.com/KBkNic4.png)
 
+<p align="center">
+  <a>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Son0fAnton&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
+  </a>
+</p>
+
 [![test](https://github-profile-trophy.vercel.app/?username=Son0fAnton&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=8&no-bg=true)](https://github.com/Son0fAnton?tab=repositories)
 
 ##
