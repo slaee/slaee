@@ -18,7 +18,7 @@
 - 🤔 I’m looking for great repo to contribute
 - 💬 Ask me about anything in tech and life
 
-<p align="start">
+<p align="center">
   <a href="https://github.com/JayantGoel001">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Son0fAnton&show_icons=true&hide_border=false&title_color=0088DD&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=0d1117&count_private=true&include_all_commits=true"/>
   </a>
