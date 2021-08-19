@@ -11,6 +11,6 @@
 - 💬 Ask me about anything in tech and life
 
  [![Son0fAnton GitHub stats](https://github-readme-stats.vercel.app/api?username=Son0fAnton&show_icons=true&line_height=28.5&theme=react&include_all_commits=true&count_private=true)](https://github.com/Son0fAnton?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Son0fAnton&layout=compact&theme=react&langs_count=10)](https://github.com/Son0fAnton?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Son0fAnton&layout=compact&theme=react&langs_count=10&custom_title=Programming%20Language%20Skills)](https://github.com/Son0fAnton?tab=repositories)
 
 
