@@ -1,6 +1,6 @@
 # Hi I'm Sly
 
-![sly](https://i.imgur.com/22q7Cyp.png)
+![sly](https://i.imgur.com/KBkNic4.png)
 - 🔭 I’m currently working on Ai and Automated Systems
 - 🌱 I’m currently learning DevOps
 - 👯 I have my great collaborator chgresma
