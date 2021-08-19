@@ -1,6 +1,6 @@
 ![sly](https://i.imgur.com/KBkNic4.png)
 
-[![test](https://github-profile-trophy.vercel.app/?username=JayantGoel001&theme=darkhub&no-frame=true&margin-w=15&column=8&no-bg=true)](https://github.com/Son0fAnton?tab=repositories)
+[![test](https://github-profile-trophy.vercel.app/?username=Son0fAnton&theme=darkhub&no-frame=true&margin-w=15&column=8&no-bg=true)](https://github.com/Son0fAnton?tab=repositories)
 
 ##
 
