@@ -1,6 +1,6 @@
 ![sly](https://i.imgur.com/KBkNic4.png)
-![Son0fAnton GitHub stats](https://github-readme-stats.vercel.app/api?username=Son0fAnton&show_icons=true&theme=react) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Son0fAnton&layout=compact&theme=react)](https://github.com/Son0fAnton/github-readme-stats)
+![Son0fAnton GitHub stats](https://github-readme-stats.vercel.app/api?username=Son0fAnton&show_icons=true&line_height=20&theme=react) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Son0fAnton&layout=compact&theme=react)](https://github.com/Son0fAnton?tab=repositories)
 
 
 - 🔭 I’m currently working on Ai and Automated Systems
