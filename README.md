@@ -10,9 +10,11 @@
 - 😄 Pronouns: sly
 - ⚡ Fun fact: no fun fact at this moment :((
 
-[![](https://github-profile-trophy.vercel.app/?username=Son0fAnton&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/Son0fAnton?tab=repositories)
 
-[![Son0fAnton GitHub stats](https://github-readme-stats.vercel.app/api?username=Son0fAnton&show_icons=true&line_height=20&theme=react)](https://github.com/Son0fAnton?tab=repositories)
+##
+
+[![test](https://github-profile-trophy.vercel.app/?username=Son0fAnton&theme=darkhub&no-frame=true&margin-w=15&column=7&no-bg=true)](https://github.com/Son0fAnton?tab=repositories)
+ [![Son0fAnton GitHub stats](https://github-readme-stats.vercel.app/api?username=Son0fAnton&show_icons=true&line_height=20&theme=react)](https://github.com/Son0fAnton?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Son0fAnton&layout=compact&theme=react)](https://github.com/Son0fAnton?tab=repositories)
 
 
