@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Son0fAnton/Son0fAnton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hi I'm Sly
 
 - 🔭 I’m currently working on Ai and Automated Systems
 - 🌱 I’m currently learning DevOps
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nasa.sly14@gmail.com, Facebook: Sly Bacalso: Reddit: sly-py Discord: charly#3226
 - 😄 Pronouns: sly
 - ⚡ Fun fact: no fun fact at this moment :((
--->
+
