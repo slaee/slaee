@@ -43,10 +43,10 @@
 - 💬 Ask me about anything in tech and life
 
 <p align="center">
-  <a href="https://github.com/JayantGoel001">
+  <a href="https://github.com/Son0fAnton">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Son0fAnton&show_icons=true&hide_border=false&title_color=0088DD&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=0d1117&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/JayantGoel001">
+  <a href="https://github.com/Son0fAnton">
     <img align="center" style="margin-top: 20px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Son0fAnton&text_color=FFFFFF&bg_color=0d1117&title_color=0088DD&langs_count=15&layout=compact&hide_border=false" />
   </a>
 </p>
