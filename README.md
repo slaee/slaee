@@ -40,7 +40,6 @@
 - 🌱 I’m currently learning DevOps
 - 💞 I have my great collaborator and contributor chgresma
 - 🤔 I’m looking for great repo to contribute
-- 💬 Ask me about anything in tech
 
 <p align="center">
   <a href="https://github.com/Son0fAnton">
