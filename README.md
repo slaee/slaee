@@ -18,7 +18,7 @@
 <p align="center">
   <a>
     <img height="150" width="155" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Son0fAnton&theme=dark&ring=DDAD44&fire=DDAD44&border=DDC78F&background=121212"/>
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=slyg3nius&theme=dark&ring=DDAD44&fire=DDAD44&border=DDC78F&background=121212"/>
     <img height="150" width="155" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
   </a>
 </p>
