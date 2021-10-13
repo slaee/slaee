@@ -23,15 +23,15 @@
   </a>
 </p>
 
-[![test](https://github-profile-trophy.vercel.app/?username=Son0fAnton&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=8&no-bg=true)](https://github.com/Son0fAnton?tab=repositories)
+[![test](https://github-profile-trophy.vercel.app/?username=slyg3nius&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=8&no-bg=true)](https://github.com/Son0fAnton?tab=repositories)
 
 <p align="center">
-  <a href="https://www.codacy.com/gh/son0fanton/Tacular-bot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Son0fAnton/Tacular-bot&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/361bc187bb2249e6bc68193b34bcfb09"/></a>
-  <img alt="GitHub Hacktoberfest combined status" src="https://img.shields.io/github/hacktoberfest/2020/Son0fAnton/automated-payroll">
-  <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/Son0fAnton/Progme">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Son0fAnton&style=flat&color=brightgreen">   
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Son0fAnton?label=Followers&style=social">
-  <img src="https://img.shields.io/github/stars/Son0fAnton?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <a href="https://www.codacy.com/gh/son0fanton/Tacular-bot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=slyg3nius/Tacular-bot&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/361bc187bb2249e6bc68193b34bcfb09"/></a>
+  <img alt="GitHub Hacktoberfest combined status" src="https://img.shields.io/github/hacktoberfest/2020/slyg3nius/automated-payroll">
+  <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/slyg3nius/Progme">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=slyg3nius&style=flat&color=brightgreen">   
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/slyg3nius?label=Followers&style=social">
+  <img src="https://img.shields.io/github/stars/slyg3nius?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
 ##
@@ -43,10 +43,10 @@
 
 <p align="center">
   <a href="https://github.com/Son0fAnton">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Son0fAnton&show_icons=true&hide_border=false&title_color=0088DD&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=0d1117&count_private=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=slyg3nius&show_icons=true&hide_border=false&title_color=0088DD&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=0d1117&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/Son0fAnton">
-    <img align="center" style="margin-top: 20px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Son0fAnton&text_color=FFFFFF&bg_color=0d1117&title_color=0088DD&langs_count=15&layout=compact&hide_border=false" />
+    <img align="center" style="margin-top: 20px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slyg3nius&text_color=FFFFFF&bg_color=0d1117&title_color=0088DD&langs_count=15&layout=compact&hide_border=false" />
   </a>
 </p>
 
