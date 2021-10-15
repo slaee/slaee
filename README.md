@@ -39,7 +39,6 @@
 
 - 🔭 I’m currently working on Ai and Automated Systems
 - 🌱 I’m currently learning DevOps
-- 💞 I have my great collaborator and contributor chgresma
 - 🤔 I’m looking for great repo to contribute
 
 <p align="center">
