@@ -11,7 +11,7 @@
 
 <p align="center">
   <code>
-    <img src="https://gitwar.herokuapp.com/badge?username=slyg3nius&style=for-the-badge" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
+    <img src="https://gitwar.herokuapp.com/badge?username=slyg3nius&style=for-the-badge&color=brightgreenlabel=GITWAR+PROFILE+SCORE" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
   </code>
 </p>
 
