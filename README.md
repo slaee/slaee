@@ -1,12 +1,10 @@
 ![header](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
-
 <h1 align="center">
   Make the world a better place
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
 </h1>
-
 ![sly](https://i.imgur.com/KBkNic4.png)
 
 ##
