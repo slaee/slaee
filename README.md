@@ -39,6 +39,7 @@
 - 🔭 I’m currently working on Ai and Automated Systems
 - 🌱 I’m currently learning DevOps and ML
 - 🤔 I’m looking for great repo to contribute
+- Best in C/C++ and Java
 
 <p align="center">
   <a href="https://github.com/slyg3nius">
