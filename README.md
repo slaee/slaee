@@ -40,6 +40,7 @@
 - 🌱 I’m currently learning DevOps and ML
 - 🤔 I’m looking for great repo to contribute
 - Best in C/C++ and Java
+- The best of me is that I will make you happy
 
 <p align="center">
   <a href="https://github.com/slyg3nius">
