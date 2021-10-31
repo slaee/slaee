@@ -11,12 +11,12 @@
 ##
 
 <!-- Not working -->
-<!-- <p align="center">
+<p align="center">
   <code>
     <img src="https://gitwar.herokuapp.com/badge?username=slyg3nius&style=for-the-badge&color=yellow&label=GITWAR+PROFILE+SCORE" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
   </code>
 </p>
- -->
+
 <p align="center">
   <a>
     <img height="150" width="155" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
@@ -42,7 +42,7 @@
 - 🌱 I’m currently learning DevOps and ML
 - 🤔 I’m looking for great repo to contribute
 - Best in C/C++ and Java
-- The best of me is that I will make you happy
+- The best of me is that I will make you haFedora 34ppy
 
 <p align="center">
   <a href="https://github.com/slyg3nius">
