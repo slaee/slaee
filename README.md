@@ -44,7 +44,7 @@
 - 🤔 I’m looking for great repo to contribute
 - Currently learning laravel php framework
 - Best in C/C++ and Java
-- The best of me is that I will make you haFedora 34ppy
+- The best of me is that I will make you happy
 
 <p align="center">
   <a href="https://github.com/slyg3nius">
