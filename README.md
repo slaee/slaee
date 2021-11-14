@@ -6,6 +6,8 @@
   </a>
 </h1>
 
+<!-- make the background pic color inherited -->
+
 ![sly](https://i.imgur.com/KBkNic4.png)
 
 ##
