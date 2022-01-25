@@ -6,8 +6,6 @@
   </a>
 </h1>
 
-![sly](https://i.imgur.com/KBkNic4.png)
-
 ##
 
 <p align="center">
