@@ -35,12 +35,12 @@
 
 ##
 
-- 🔭 I’m currently working on Ai and Automated Systems
-- 🌱 I’m currently learning DevOps and ML
-- 🤔 I’m looking for great repo to contribute
-- Currently learning laravel php framework
+- 🔭 Working on Automated Systems
+- 🌱 Learning DevOps and ML
+- 🤔 Looking for great repo to contribute
+- Learning laravel php framework
 - Best in C/C++ and Java
-- The best of me is that I will make you happy
+- The quieter you become, the more you are able to hear
 
 <p align="center">
   <a href="https://github.com/slyg3nius">
