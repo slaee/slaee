@@ -8,7 +8,7 @@
 
 <p align="center">
   <code>
-    <img src="https://gitwar.herokuapp.com/badge?username=slygpy&style=for-the-badge&color=yellow&label=GITWAR+PROFILE+SCORE" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
+    <img src="https://gitwar.herokuapp.com/badge?username=slypy&style=for-the-badge&color=yellow&label=GITWAR+PROFILE+SCORE" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
   </code>
 </p>
 
