@@ -22,8 +22,8 @@
 
 <!-- [![test](https://github-profile-trophy.vercel.app/?username=slyg3nius&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=8&no-bg=true)](https://github.com/slyg3nius?tab=repositories) -->
 
-<!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=slypy&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/slyg3nius) -->
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=slypy&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=slypy&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/slyg3nius)
+
 
 <p align="center">
   <a href="https://www.codacy.com/gh/son0fanton/Tacular-bot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=slypy/Tacular-bot&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/361bc187bb2249e6bc68193b34bcfb09"/></a>
